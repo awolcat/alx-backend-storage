@@ -1,0 +1,2 @@
+// List all documentsin mongodb collection
+db.school.find()
